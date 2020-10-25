@@ -21,7 +21,7 @@ Video: https://youtu.be/drDIPHCTaeI
 
 2. Install the Blynk Library. (You can download it from [here](https://github.com/blynkkk/blynk-library/releases), and you should install this to the Arduino IDE by following this [guide](https://www.arduino.cc/en/Guide/Libraries).)
 
-3. Download the source code from here, and open SmartSwitch.ino file.
+3. Download the source code from [here](https://github.com/Nitro1231/Smart-Switch/releases/), and open [SmartSwitch.ino](https://github.com/Nitro1231/Smart-Switch/blob/main/SmartSwitch/SmartSwitch.ino) file.
 
 4. Replace the following three sections and servo pin on your own.
 
